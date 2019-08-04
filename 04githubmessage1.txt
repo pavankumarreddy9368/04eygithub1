@@ -1,6 +1,5 @@
 hi friends 
 all developers need to create 
-<<<<<<< HEAD
 their own local repositories.
 
 hi ops team please update
@@ -12,6 +11,3 @@ u have the responsibilities to
 take care every thing.
 thank u.
 
-=======
-their own local repositories.
->>>>>>> parent of 69e8302... added message to ops team
